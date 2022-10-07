@@ -42,7 +42,7 @@ Run the app
 
 ## How to contribute
     
-Check out our [Contributing Documentation](https://github.com/CMPN-CODECELL/URL-Shortener/blob/main/CONTRIBUTING.md) 
+Check out our [Contributing Documentation](https://github.com/CMPN-CODECELL/URL-Shortener/blob/main/ContributingGuide.md)
 
 ### Note
 
